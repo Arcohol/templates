@@ -6,6 +6,7 @@
         default = self.templates.empty;
         empty.path = ./empty;
         rust.path = ./rust;
+        zephyr.path = ./zephyr;
       };
     };
 }
